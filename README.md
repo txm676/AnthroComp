@@ -5,6 +5,7 @@ This repository contains the data and code underlying Figure 2 in Matthews et al
 Matthews et al (in review). Emergent patterns of island biodiversity in the Anthropocene.
 
 Data collectors: Natàlia Martínez-Rubio, Osanna Chu, Joseph P. Wayman, Thomas E. Martin, Thomas J. Matthews, Ferran Sayol
+
 Figure code: Natàlia Martínez-Rubio
 
 The figure provides a summary of the results of studies of island
