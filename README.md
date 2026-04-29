@@ -1,8 +1,8 @@
 # AnthroComp
 
-This repository contains the data and code underlying Figure 2 in Matthews et al (In review).
+This repository contains the data and code underlying Figure 2 in Matthews et al (2026).
 
-Matthews et al (in review). Emergent patterns of island biodiversity in the Anthropocene.
+Matthews et al (2026). Emergent patterns of island biodiversity in the Anthropocene. Science Advances.
 
 Data collectors: Natàlia Martínez-Rubio, Osanna Chu, Joseph P. Wayman, Thomas E. Martin, Thomas J. Matthews, Ferran Sayol
 
