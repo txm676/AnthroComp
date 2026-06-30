@@ -11,14 +11,24 @@ Figure code: Natàlia Martínez-Rubio
 The figure provides a summary of the results of studies of island
 biotic homogenisation – defined here as increased compositional
 similarity in some measure of diversity through time. Study
-results are split across taxa. Data were compiled from a
-literature search conducted in Web of Science on 7th June 2025
+results are split across taxa. Data were initially compiled from
+a literature search conducted in Web of Science on 7th June 2025
 using the search terms: AB=(Island* AND (homogenization OR
 homogenisation)) OR TI=(Island* AND (homogenization OR
-homogenisation)). Three additional studies that were known to the
-authors were also included.
+homogenisation)). A total of 438 papers were screened following
+this initial search. Three additional studies that were known to
+the authors were also included. Further searches were undertaken
+on 29th June 2026 using the search terms: AB(OR TI)=(Island* AND
+(beta-diversity OR "beta diversity" OR β-diversity OR "β
+diversity" OR beta diversity) AND (introduced OR introduction OR
+alien OR non-native OR "non native" OR extinct OR extinction)).
+This was repeated but using "differentiation" in place of the
+different beta diversity variants. These latter searches resulted
+in an additional two studies being included. In total, 24 studies
+were deemed to be suitable for inclusion, comprising 124
+individual analysis results.
 
-The returned studies were then screened for inclusion by multiple
+The returned studies were screened for inclusion by multiple
 authors. Studies were included if they assessed change in
 compositional similarity (due to species extinctions /
 extirpations and/or introductions) across true islands within an
@@ -31,9 +41,7 @@ multiple archipelagos, or for multiple taxa or diversity
 dimensions in a single archipelago, we counted each of these as
 distinct results (i.e., the unit of analysis was taken to be a
 given taxon-diversity dimension-archipelago [or broader spatial
-scale] combination). A total of 438 papers were screened, with 22
-deemed to be suitable for inclusion, comprising 120 individual
-analysis results.
+scale] combination). 
 
 Other points:
 *	The analysis overall is relatively coarse and is meant to just provide a rough and general overview of the results of island homogenisation studies. We also took the results from the studies at face-value. Thus, if using these data in new analyses, we would recommend i) checking all the original source-papers, and ii) undertaking a more comprehensive literature search with additional search terms (e.g., ‘community convergence’ and ‘composition change’).
